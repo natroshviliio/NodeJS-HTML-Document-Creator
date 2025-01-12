@@ -1,0 +1,1 @@
+This library was created by Ioane Natroshvili and is currently in the testing phase. The purpose of the library is to simplify and facilitate the creation of HTML documents on the NodeJS side, model nodes within them, design and manage styles, and perform various DOM manipulations.
